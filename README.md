@@ -12,6 +12,14 @@ Once installed, see the [Boards](https://github.com/PieLabs/pie-project#boards) 
 Any issues that are cross-cutting concerns across repositories should be added to the `pie-project` repository.
 If they only relate to one code-base they should be added to that repository.
 
+# Labels
+
+Use [github-labels](https://github.com/codenameyau/github-label) to set the labels defined here in labels.json on a repository:
+
+```
+github-label 'org/repo -j 'labels.json'
+```
+
 # Milestones 
 
 Repository-specific milestones should include their repository name, e.g. `pie-clie-1.0`

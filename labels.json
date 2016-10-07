@@ -1,0 +1,62 @@
+[
+  {
+    "name": "discuss: achitecture",
+    "color": "BFD4F2"
+  },
+  {
+    "name": "discuss: question",
+    "color": "BFD4F2"
+  },
+  {
+    "name": "discuss: rfc",
+    "color": "BFD4F2"
+  },
+  {
+    "name": "problem: bug",
+    "color": "ee0701"
+  },
+  {
+    "name": "todo: chore",
+    "color": "FEF2C0"
+  },
+  {
+    "name": "todo: tech debt",
+    "color": "FEF2C0"
+  },  
+  {
+    "name": "experience: design",
+    "color": "FFC274"
+  },
+  {
+    "name": "experience: copy",
+    "color": "FFC274"
+  },  
+  {
+    "name": "improvement: enhancement",
+    "color": "5EBEFF"
+  },
+  {
+    "name": "improvement: optimization",
+    "color": "5EBEFF"
+  },  
+  {
+    "name": "addition: feature",
+    "color": "91CA55"
+  },  
+  {
+    "name": "inactive: invalid",
+    "color": "D2DAE1"
+  },  
+  {
+    "name": "inactive: wontfix",
+    "color": "D2DAE1"
+  },  
+  {
+    "name": "inactive: duplicate",
+    "color": "D2DAE1"
+  },  
+  {
+    "name": "inactive: on hold",
+    "color": "D2DAE1"
+  }
+]
